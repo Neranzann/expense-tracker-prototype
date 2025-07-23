@@ -66,6 +66,7 @@ export function ExpenseForm({ categories, onSubmit, onClose, editingExpense }: E
     setCategory("")
     setDate("")
     setType("expense")
+    SetCategory ("expense 2);
   }
 
   return (
